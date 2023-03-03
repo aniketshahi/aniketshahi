@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket0608&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="aniket0608" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniket0608&" alt="aniket0608" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ooprathamm&theme=dark&hide_border=false" /></p>
