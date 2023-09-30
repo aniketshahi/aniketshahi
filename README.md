@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **.net Framework**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **C++**
 
