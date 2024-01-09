@@ -11,8 +11,10 @@
 <br />
 <br />
 
-- 🌱 I’m currently learning **Python** - 💬 Ask me about **C++** - 📫 How to
-reach me **aniketshahi7766@gmail.com** - ⚡ Fun fact **Cyber Guy learning Dev**
+- 🌱 I’m currently learning **Python**
+- 💬 Ask me about **C++**
+- 📫 How to reach me **aniketshahi7766@gmail.com**
+- ⚡ Fun fact **Cyber Guy learning Dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
