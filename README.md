@@ -8,8 +8,6 @@
   width="400"
   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 />
-<br />
-<br />
 
 - 🌱 I’m currently learning **Python**
 - 💬 Ask me about **C++**
@@ -35,6 +33,8 @@
       width="40"
   /></a>
 </p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -175,6 +175,7 @@
     />
   </a>
 </p>
+<br />
 
 ![](https://github-readme-stats.vercel.app/api?username=aniket0608&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br />
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aniket0608&theme=dark&hide_border=false)<br />
